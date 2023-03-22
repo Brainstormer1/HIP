@@ -1,6 +1,6 @@
 # HIP 79: Mobile PoC - Mappers Rewards
 
-- Author(s): Mobile PoC Working Group ([@gateholder](https://github.com/gateholder), [@jhella](https://github.com/jhella), [@Maxgold91](https://github.com/Maxgold91), [@modern-memories](https://github.com/modern-memories), [@zer0tweets](https://github.com/zer0tweets))
+- Author(s): Mobile PoC Working Group ([@gateholder](https://github.com/gateholder), [@jhella](https://github.com/jhella), [@Maxgold91](https://github.com/Maxgold91), [@modern-memories](https://github.com/modern-memories),[@Brainstormer1](https://github.com/Brainstormer1) [@zer0tweets](https://github.com/zer0tweets))
 - Start Date: 2023-03-19
 - Category: Economic, Technical
 - Original HIP PR: #590
